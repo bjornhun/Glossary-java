@@ -1,0 +1,7 @@
+가끔|sometimes
+자주|often
+항상|always (most common in written language)
+맨날|always (most common in spoken language)
+별로|seldom, rarely
+전혀|not at all
+거의|almost not at all

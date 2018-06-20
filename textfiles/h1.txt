@@ -1,0 +1,12 @@
+인|person
+개|piece
+물|object
+사|work
+노|old
+간|between
+구|mouth
+기|energy
+부|wife
+외|outside
+국|country
+주|host

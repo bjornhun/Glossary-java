@@ -1,0 +1,100 @@
+개|dog
+있다|to exist, to have, to be (at a place)
+이름|name
+시간|time
+살다|to live
+죽다|to die
+슬프다|to be sad
+동생|younger sibling
+울다|to cry
+눈물|tear
+수영|swimming
+수건|towel
+가게|store
+돈|money
+빌리다|to borrow, to rent
+비누|soap
+차갑다|to be cold
+어깨|shoulder
+힘|strength, power
+가르치다|to teach
+나|I, me (casual)
+회사원|company employee
+너무|too, very
+바쁘다|to be busy
+우리|we, our
+보통|usually, usual, regular
+주말|weekend
+만나다|to meet
+영화|movie
+카페|cafe
+매일|every day
+일찍|early
+일어나다|to get up, to wake up
+물|water
+마시다|to drink
+세수|washing one's face
+옷|clothes
+입다|to wear, to put on
+화장|make-up
+회사|company
+시험|test, exam
+의자|chair
+책상|desk
+더럽다|to be dirty
+위|up, top
+청소|cleaning
+깨끗하다|to be clean
+공책|notebook
+필통|pencil case
+시작하다|to begin, to start
+배고프다|to be hungry
+아까|earlier
+빵|bread
+음료수|beverage
+주다|to give
+지금|now
+배부르다|to be full
+졸다|to doze
+선생님|teacher
+무섭다|to be scary, to be scared
+어린이|child
+학교|school
+가족|family
+공원|park
+많다|to be a lot, to be numerous
+어른|adult, grown-up
+아기|baby
+적다|to be few, to be little
+신기하다|to be interesting, to be fascinating
+어떻게|how
+겨울|winter
+방학|school vacation
+할머니|grandmother
+가다|to go
+버스|bus
+지하철|subway
+타다|to ride
+고양이|cat
+동물|animal
+놀다|to hang out, to play
+휴가|vacation, leave
+남자|man
+여자|woman
+샴푸|shampoo
+린스|hair conditioner
+속옷|underwear
+양말|socks
+드라이기|hairdryer
+바지|pants
+티셔츠|t-shirt
+누나|older sister (for a boy)
+텔레비전|television
+드라마|TV drama
+뉴스|news
+싸우다|to fight, to argue
+지다|to lose
+방|room
+닫다|to close
+음악|music
+듣다|to listen, to hear

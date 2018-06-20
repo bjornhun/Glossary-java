@@ -1,0 +1,11 @@
+앞|front
+뒤|back
+옆|side
+위|top
+밑|bottom
+치다|to play (sports that hit balls)
+잠깐|for a short time, for a moment
+건드리다|to touch, to interfere in
+결정하다|to decide something, to make a decision
+포기하다|to give up
+용서하다|to forgive

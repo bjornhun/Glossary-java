@@ -1,0 +1,10 @@
+개인|individual
+인물|person
+인사|greeting
+노인|elderly, old person
+인간|human
+인구|population
+인기|popularity
+부인|wife
+외국인|foreigner
+주인|owner

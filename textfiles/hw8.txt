@@ -1,0 +1,5 @@
+녹색|green
+색연필|colored pencil
+갈색|brown
+염색|dyeing
+색맹|color-blindness

@@ -1,0 +1,7 @@
+색|color
+녹|green
+연|lead
+필|brush
+갈|brown
+염|dye
+맹|blind

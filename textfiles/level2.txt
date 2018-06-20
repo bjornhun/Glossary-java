@@ -1,0 +1,22 @@
+시|hour (telling time)
+분|minute (telling time)
+일|day (saying date)
+월|month (saying date)
+이번|this (day, month etc.)
+만약|in case
+조금|a little, a bit, a little bit
+정말|really, truly
+아주|very, quite
+별로|not really, not particularly
+전혀|not at all
+언젠가|someday
+뭔가|something
+누군가|someone
+어딘가|somewhere
+월요일|Monday
+화요일|Tuesday
+수요일|Wednesday
+목요일|Thursday
+금요일|Friday
+토요일|Saturday
+일요일|Sunday

@@ -1,0 +1,10 @@
+입구|entrance
+입학|starting school
+출입|going in and out
+수입|income
+신입생|first year student
+입원|being hospitalized
+입사|joining a company
+입장료|admission
+입양|adoption
+입금|deposit

@@ -1,0 +1,100 @@
+연예인|entertainer, celebrity
+누구|who
+키|one's height
+크다|to be big
+웃다|to laugh, to smile
+얼굴|face
+귀엽다|to be cute
+눈|eye
+다리|leg
+길다|to be long
+언니|older sister (for a girl)
+같이|together
+여행|travel
+비행기|airplane
+처음|beginning, for the first time
+창문|window
+앉다|to sit
+이따가|later
+하늘|sky
+구름|cloud
+연락|contact, contacting
+도와주다|to help
+층|floor
+엘리베이터|elevator
+무겁다|to be heavy
+상지|box
+들다|to lift, to carry
+넣다|to put in, to add
+좁다|to be narrow
+빼다|to take out, to pull out
+이사|moving
+혼자|alone
+멋있다|to be cool, to be awesome
+거실|living room
+벽|wall
+그림|painting, drawing, picture
+시계|clock
+부엌|kitchen
+만들다|to make
+쓰다|to use
+지우다|to erase, to wash off
+씻다|to wash
+버섯|mushroom
+당근|carrot
+부르다|to call
+다|all, every
+산책|walk
+밝다|to be bright
+편하다|to be comfortable
+감사|gratitude
+꿈|dream
+사진|photo
+배우다|to learn
+카메라|camera
+가격|price
+비싸다|to be expensive
+휴대폰|mobile phone, cell phone
+찍다|to take, to film
+연습하다|to practice
+유명하다|to be famous
+봄|spring (season)
+오다|to come
+날씨|weather
+따뜻하다|to be (pleasantly) warm
+예쁘다|to be pretty
+꽃|flower
+딸기|strawberry
+빨간색|red (color)
+좋아하다|to like
+과일|fruit
+기다리다|to wait
+눈|snow
+바람|wind
+춥다|to be cold
+자주|often
+안|inside
+전화하다|to call, to telephone
+알다|to know
+장갑|glove
+목도리|scarf
+잘하다|to do well, to be good at
+맛|taste
+못하다|to not to well, to be bad at
+사랑|love
+양파|onion
+감자|potato
+칼|knife
+썰다|to chop, to cut
+손가락|finger
+배달|delivery
+손님|guest
+빨래|laundry
+설거지|doing the dishes
+이불|blanket
+베개|pillow
+쓰레기|trash
+버리다|to throw away
+시장|market
+과자|snack
+준비하다|to prepare

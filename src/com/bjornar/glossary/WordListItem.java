@@ -14,6 +14,10 @@ public class WordListItem {
 
     public String getTranslation() {return translation;}
 
+    public String toString() {
+        return englishWord + " = " + translation;
+    }
+
     public int getNumCorrectGuesses() {return numCorrectGuesses;}
 
     public int decrementNumCorrectGuesses() {return --numCorrectGuesses;}

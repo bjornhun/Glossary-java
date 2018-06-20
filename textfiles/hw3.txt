@@ -1,0 +1,10 @@
+시작|start
+작가|author
+작품|work of art
+제작|making, production
+작업|work
+조작|fabrication
+작문|writing
+작곡|music composition
+작사|writing lyrics
+명작|masterpiece
